@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Current production version of this site can be found at:
 
-Things you may want to cover:
+https://obscure-hamlet-38929.herokuapp.com/
 
-* Ruby version
+Currently Working on:
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+User Profiles and Relational Databases
